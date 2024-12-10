@@ -1,4 +1,4 @@
-# Taxi
+# Go Channels Example
 Test app
 
 ## Building
